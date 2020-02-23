@@ -1,0 +1,82 @@
+body {
+    line-height: 1;
+    background-color: #080808;
+    margin: 0 0;
+}
+ol, ul {
+	list-style: none;
+}
+.nav {
+    font-family: 'DM Serif Text', serif;
+    font-size: 18px;
+  
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px 10px;
+    overflow: hidden;
+    background-color: #f0eeeb;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+
+li {
+    float: left;
+    padding: 0px;
+}
+
+li a {
+    display: block;
+    color: #283148;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.definisi {
+    padding-top: 200px;
+    display: flex;
+}
+.def {
+    padding-bottom: 200px;
+    margin-right: 100px;
+    
+    padding-top: 70px;
+    color: #f0eeeb;
+    line-height: 1.6;
+    font-size: 20px;
+
+
+}
+
+
+.dentuman {
+    padding-top: 200px;
+    display: flex;
+}
+
+.gerhana {
+    padding-top: 200px;
+    display: flex;
+}
+
+
+.footer {
+    background-color:#f2f3ed;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.punyaku {
+    font-family: 'DM Serif Text', serif;
+    color: #0a0909;
+    font-size: 20px;
+}
